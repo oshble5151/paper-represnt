@@ -21,3 +21,22 @@ lease 리스 계약 /임대하다
 proprietor 소유주
 
 
+# help => 목적보어 to 부정사와 동사원형 모두 가능
+
+## help + 목적어 + 동사
+
+# appeal to ~에게 나타나다
+
+# approve of ~을 승인하다
+
+# point out ~을 가리키다 지적하다
+
+# recruit 리쿠루트 모집하다 뽑다 채용하다 명/ 신병
+
+# entitle 인타이덜 to 자격을 주다
+
+# provided that = if
+
+# work for ~에서 일하다
+
+# up to ~ 까지
