@@ -57,3 +57,16 @@ proprietor 소유주
 
 # on ing ~하자마자
 
+# clue 단서 힌트 증거
+
+# decision 결정 판단
+
+# terminate 털미네이트 끝나다 종료되다 종료하다
+
+# designate 데지그네이트 지정하다 지명하다
+
+# conserve 아껴쓰다 과일통조림
+
+# place 장소 / 설치하다
+
+# 
