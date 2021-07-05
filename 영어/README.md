@@ -69,4 +69,4 @@ proprietor 소유주
 
 # place 장소 / 설치하다
 
-# 
+# proposal *명 제안
