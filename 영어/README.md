@@ -40,3 +40,20 @@ proprietor 소유주
 # work for ~에서 일하다
 
 # up to ~ 까지
+
+# invalidate 인벨리데이트 틀렸음을 입증하다. 무효화하다.
+
+# expire 만료되다 만기가 되다 
+
+# erase 지우다
+
+# lose 루즈 잃어버리다 분실하다  
+
+# far 형용사 부사  멀리 , 저쪽의 
+
+# be known for ~로 알려지다
+
+# anonymous 형 익명의
+
+# on ing ~하자마자
+
