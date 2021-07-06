@@ -90,3 +90,9 @@ proprietor 소유주
 # to the extent of ~의 보상으로
 
 # in preference to ~에 우선해서 
+
+# attraction  끌림 
+
+# occupation 아큐페이션 직업 심심풀이  점령
+
+# absence 엡선스 부재 결핍 
