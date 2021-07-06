@@ -70,3 +70,23 @@ proprietor 소유주
 # place 장소 / 설치하다
 
 # proposal *명 제안
+
+# translation 트렌즐레이션 번역 통역
+
+# acceptance 엑셉턴스 동의 승인 받아들임
+
+# dedication 데리케이션
+
+# identification 아이덴티피케이션 증명 신분 식별
+
+# diligently  딜리전(틀)리  부지런히, 열심히, 애써
+
+# entirely 인타이얼리
+
+# on behalf of ~을 대신하여 
+
+# in compensation for  ~의 보상으로
+
+# to the extent of ~의 보상으로
+
+# in preference to ~에 우선해서 
