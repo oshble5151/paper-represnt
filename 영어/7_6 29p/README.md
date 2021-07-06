@@ -5,3 +5,5 @@
 # recreational 레크리에이셔널
 
 # rather 꽤 상당히 오히려 차라리
+
+# go rather than 상당히 잘되어가다
