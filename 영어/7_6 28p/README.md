@@ -10,23 +10,22 @@ changed + dramatically, considerably, significantly 급격하게 변하다
 
 considerably 컨시덜러블리
 
-__executives 간부 => 형용사 처럼 보이는 명사_ 
+__executives 간부 => 형용사 처럼 보이는 명사__
 
-
-executive  이그젝큐디브 경영 간부 형 경영의 ㅅ두뭇ㄴ
+executive  이그젝큐디브 경영 간부 형 경영의
 
 tenant 테넌트 세입자 세들어 살다 소작하다
 
 lease 리스 계약 /임대하다
 
-proprietor 소유주
+proprietor 프로프라이어털 소유주 
 
 
 # help => 목적보어 to 부정사와 동사원형 모두 가능
 
-## help + 목적어 + 동사
+## help + 목적어 + 동사(목적보어)
 
-# appeal to ~에게 나타나다
+# appeal to ~에게 호소하다. ~에게 나타나다
 
 # approve of ~을 승인하다
 
@@ -34,7 +33,9 @@ proprietor 소유주
 
 # recruit 리쿠루트 모집하다 뽑다 채용하다 명/ 신병
 
-# entitle 인타이덜 to 자격을 주다
+# entitle to 자격을 주다
+
+entitle 인타이덜
 
 # provided that = if
 
@@ -44,7 +45,7 @@ proprietor 소유주
 
 # invalidate 인벨리데이트 틀렸음을 입증하다. 무효화하다.
 
-# expire 만료되다 만기가 되다 
+# expire 익스파이얼 만료되다 만기가 되다 
 
 # erase 지우다
 
@@ -54,23 +55,23 @@ proprietor 소유주
 
 # be known for ~로 알려지다
 
-# anonymous 형 익명의
+# anonymous 어나니머스 형 익명의
 
 # on ing ~하자마자
 
 # clue 단서 힌트 증거
 
-# decision 결정 판단
+# decision 디시션 결정 판단
 
 # terminate 털미네이트 끝나다 종료되다 종료하다
 
 # designate 데지그네이트 지정하다 지명하다
 
-# conserve 아껴쓰다 과일통조림
+# conserve 컨설브 아껴쓰다 과일통조림
 
 # place 장소 / 설치하다
 
-# proposal *명 제안
+# proposal 프로포절 *명 제안
 
 # translation 트렌즐레이션 번역 통역
 
@@ -92,7 +93,7 @@ proprietor 소유주
 
 # in preference to ~에 우선해서 
 
-# attraction  끌림 
+# attraction 끌림 
 
 # occupation 아큐페이션 직업 심심풀이  점령
 
