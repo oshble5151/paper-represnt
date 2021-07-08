@@ -12,6 +12,7 @@ considerably 컨시덜러블리
 
 __executives 간부 => 형용사 처럼 보이는 명사_ 
 
+
 executive  이그젝큐디브 경영 간부 형 경영의 ㅅ두뭇ㄴ
 
 tenant 테넌트 세입자 세들어 살다 소작하다
