@@ -6,7 +6,7 @@ under the direction of ~지시하에
 
 work = 자 +타
 
-changed + dramatically considerably significantly 급격하게 변하다
+changed + dramatically, considerably, significantly 급격하게 변하다
 
 considerably 컨시덜러블리
 
