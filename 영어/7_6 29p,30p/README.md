@@ -33,7 +33,9 @@
 # exclusive 독점적인 전용의 배타적인 특권층의 
 
 # mutual 상호간의 공동의
- 
+
+# founder 파운덜 창립자 설립자
+
 # acquire   얻다 습득하다
 
 # Addditionally  
@@ -46,4 +48,4 @@
 
 # fragrance 향기 향 향수 
 
-# 
+# sales associates 영업판매원
