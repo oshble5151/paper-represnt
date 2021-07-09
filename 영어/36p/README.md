@@ -39,3 +39,15 @@
 # reach out 리치 아웃 뻗다 접촉하려하다 연락을 취하려 하다
 
 # particularly 펄티큘러리 특히 
+
+# migration 마이그레이션 이주 이송
+
+# migrate 마이그레이트 이동하다 이주하다
+
+# responsibility 리스폰서빌리디 책임 책무
+
+# assign 어사인 맡기다 배정하다 선임하다 파견하다 배치하다
+
+# charity  첼러디 첼러티 자선 관용
+ 
+# establish 이스태블리쉬 설정하다 수립하다 확고히하다.
