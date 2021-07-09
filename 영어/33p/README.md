@@ -4,3 +4,5 @@ get off at the highway
 # take highway 고속도로 
 
 # branch 지점 분사 갈라지다
+
+# hold on 멈추다 기다려라.
