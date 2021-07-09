@@ -77,7 +77,7 @@ entitle 인타이덜
 
 # acceptance 엑셉턴스 동의 승인 받아들임
 
-# dedication 데리케이션
+# dedication 데디케이션
 
 # identification 아이덴티피케이션 증명 신분 식별
 
