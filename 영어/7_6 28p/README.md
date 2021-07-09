@@ -18,7 +18,7 @@ tenant 테넌트 세입자 세들어 살다 소작하다
 
 lease 리스 계약 /임대하다
 
-proprietor 프로프라이어털 소유주 
+# proprietor 프로프라이어털 소유주 
 
 
 # help => 목적보어 to 부정사와 동사원형 모두 가능
