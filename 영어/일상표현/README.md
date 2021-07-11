@@ -10,3 +10,5 @@
 ##  it has a nice ring to it 멋진 느낌을 가지고 
 
 ## kids names are picked out = 아이 이름까지 정해놓았다.
+
+# i like a guy who's artistic and creative 나는 예술적이고 창의 적인 사람이 좋아
