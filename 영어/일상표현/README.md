@@ -45,4 +45,6 @@
 
 ## i don't how to flirt
 
-#
+# suggestive 서제스티브 ~을 연상시키는 외설적인 도발적인 
+
+# solid 설리드 단단한 고체의 고형의 명 고체 고형물
