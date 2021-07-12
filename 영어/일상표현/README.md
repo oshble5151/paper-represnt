@@ -38,3 +38,5 @@
 # i really do 나는 진짜 그래요
 
 # situation ship 썸
+
+# it just never work out 잘풀리지 않다.
