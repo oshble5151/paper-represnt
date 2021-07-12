@@ -40,3 +40,9 @@
 # situation ship 썸
 
 # it just never work out 잘풀리지 않다.
+
+# flirt 플럴트 추파를 던지다 꼬시다 
+
+## i don't how to flirt
+
+#
