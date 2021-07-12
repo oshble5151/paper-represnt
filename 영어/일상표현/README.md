@@ -23,6 +23,18 @@
 
 # if they like me, they will let me know 만약 그들이 날 좋아한다면 그들은 나한테 알릴거야 
 
+# laugh 래프 동 웃다 명 웃음
 
+# stunning 스터닝 형 아름다운 깜짝 놀랄 충격적인 뜻밖의
 
+# vibe 분위기 느낌 / ~에 영향을 주다
 
+# personality 펄서낼러디 성격 인격 개성/  연예인 
+
+# celebrity 유명인사 설레브러디
+
+# butt 둔부(엉덩이 )
+
+# i really do 나는 진짜 그래요
+
+# situation ship 썸
