@@ -82,3 +82,11 @@
 # im passing  죽어가고 있다
 
 # i have been in love before, once => 한번 사랑에 빠진적이 있었다. 전에 한번
+
+# i feel like i'm with all my children
+
+# it's insane = 장난 아니다
+
+# have come 왔다.
+
+# you have come to the right place for ~ 
