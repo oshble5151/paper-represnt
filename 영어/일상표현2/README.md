@@ -29,4 +29,6 @@
 
 # i like a guy who's kind of creative and artistic
 
-# how long have you been single? 싱글인지 
+# how long have you been single? 얼마나 오래 싱글인지 
+
+
