@@ -26,3 +26,14 @@
 
 # reserve 예약하다
 
+# 40p
+
+# inspiration 인스퍼레이션 영감 영감주는것
+
+# over the years 몇년동안
+
+# novel of mine 자신의 소설 
+
+# quote 인용하다 옮기다 쿠워트
+
+# 
