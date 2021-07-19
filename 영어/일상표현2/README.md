@@ -85,3 +85,31 @@
 # run around 어울리다 교제하다 
 
 # i've never been in a relationship  before
+
+# i've been in two relationship 2번의 교제를 해봤었다.
+
+# 응용
+
+i've __only ever__ been in two relationship
+
+# it's more like , ~~  ~와 더 비슷하다
+
+# not having had a boyfriend 
+
+# the first one 첫번째는,
+
+# i was like 17
+
+# did't know what i was doing
+
+## 내가 뭘 하고 있는지 몰랐어
+ 
+# how were those?
+
+# bring on ~을 야기하다 초래하다
+
+# bring it on 한번 해보자 덤벼
+
+# continue to  계속해서 ~ 하다
+
+#  
