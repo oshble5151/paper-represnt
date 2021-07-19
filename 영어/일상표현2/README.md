@@ -191,3 +191,18 @@ i've __only ever__ been in two relationship
 # so far 지금까지
 
 # attracted to ~에 매료되다
+## im definitely most attracted to ~ 나는 ~에 가장 끌린다.
+
+# confident 칸피던트 형 자신감 있는 확신있는
+## he's really confident
+
+# it kind of makes me nervous
+
+# pull aside 옆으로 다가서다 옆으로 불러오다
+## i pull ~ aside for a chat 
+
+# chat 담소 수다 / 이야기 나누다 수다떨다
+
+# 아직 파악안됨 ******do whatever you want*********
+
+# probably 프라버블리 아마 
