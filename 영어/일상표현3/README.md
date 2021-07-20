@@ -119,3 +119,5 @@
 
 # 사이가 좋을 때 close 사용
 ## ~ and ~ are (so)close
+
+western and jack alreadys so close 
