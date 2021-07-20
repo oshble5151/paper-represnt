@@ -19,4 +19,4 @@
 
 # take a lot of nerve 많은 용기가 필요하다  
 
-# 
+#  
