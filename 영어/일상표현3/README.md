@@ -72,3 +72,19 @@
 # either a or b 오싹하거나 뜨겁다
 
 # it's either creepy or hot 
+
+# i haven't felt ~~ in so long 나는 ~을 오래동안 느끼지 못헀어
+
+# i'm nervous 
+## just nervous for today in making that decision 
+
+
+# nervous 널버스 
+
+# in ~ing  ~함에 있어서 ~ 할때
+
+# decision 디시젼  결정 판단
+
+# where's your head at? 니 생각은어때?
+
+# 
