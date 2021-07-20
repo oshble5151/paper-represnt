@@ -18,6 +18,7 @@
 ## ~라서 좋다는 표현 she's very forward, which i really like
 
 # take a lot of nerve 많은 용기가 필요하다  
+## it took a lot of nerve to drag me to a private spot 
 
 #  secure 서큐얼 형 안심한 확실한 /동 얻다 획보하다 지키다
 
@@ -27,6 +28,8 @@
 
 # ~ 처럼 보인다 표현
 ## you look like you're married already
+
+# private 프라이뱃 
 
 # as in ~에서와 같이 
 
@@ -136,4 +139,33 @@
 
 # attractive 어트랙티브 형 매력적인 멋진
 
+# so i respect that 그것을 존경해 
 
+# 나는 그녀를 알아가고 있다 i'm getting to know 누구누구 
+
+# figure out 생각하다 계산하다 이해하다
+
+# 올인하지 않을거라는 표현 => i'm not putting all my marbles (말블스) in one box
+
+# marble 말블  대리석 구슬
+
+# open up 터놓다 열다 
+## she opens up about her past 그녀는 과거를 털어놨다. 
+
+# so hard 꽤 어려워
+
+# move out 이사를 가다
+
+# move in  이사를 오다
+
+# how long was your relationship before that 전의 관계는 얼마나 길었니? 
+# when was your last realtionship?
+
+# it was with a girl 여자와 함께였다
+
+# 2년 정도 => like 2 years
+
+# run away 도망치다 탈주하다 떠나다 가출하다.
+## don't run away
+
+# be about to ~ 막 하려는 참이다
