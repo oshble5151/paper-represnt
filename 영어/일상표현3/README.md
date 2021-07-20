@@ -70,7 +70,7 @@
 
 # right here
 
-# creepy 형용사 오싹한 으스스한 기이한 
+# creepy 크리피 형용사 오싹한 으스스한 기이한 
 
 
 # either a or b 오싹하거나 뜨겁다
