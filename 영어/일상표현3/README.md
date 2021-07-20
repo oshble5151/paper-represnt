@@ -33,6 +33,7 @@
 # both with ?????
 
 # robe 로브 가운
+
 ## in your robe 
 
 # roach  로우치
@@ -119,5 +120,20 @@
 
 # 사이가 좋을 때 close 사용
 ## ~ and ~ are (so)close
+## western and jack alreadys so close 
 
-western and jack alreadys so close 
+# they're(데얼)  wearing each other's hat
+
+# 너랑 누구 (~)는 어때? what about you and kira? 너와 키라는 어때?
+
+# 그는 나를 불러냈다 she pulled me aside 
+
+# 그녀는 정직해 she's honesty 
+
+# honest 어니스티 형 정직한 솔직한
+
+# get go 시작 처음 
+
+# attractive 어트랙티브 형 매력적인 멋진
+
+
