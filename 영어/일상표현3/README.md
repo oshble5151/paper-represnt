@@ -87,4 +87,35 @@
 
 # where's your head at? 니 생각은어때?
 
-# 
+# go for 
+## i would never go for a country boy 시골남자는 안좋아했어
+
+# never in my life 내 인생에서 절대 
+
+# get to know  겟투노우 알게 되다
+## think how fun he would be to get to know  친해그가 얼마나 재밌을까 생각해봐? 구문 이해안감 would 공부하기
+
+# hella 속어 아주 
+
+# i think you're cute 
+
+# 관사와 little 이 함께 쓰일때 공부하기
+
+
+
+# strict  형 엄한 엄격한
+
+# strictly 엄하게 
+
+# get along with  ~와 잘지내다
+
+# back at home 고향??
+
+# 아직은 자세하게 모르겠어 = i don't cleary know yet 
+
+# i do just wanna watch from here 여기서 지켜보고만 싶네
+
+# there's something 뭔가 있구나 
+
+# 사이가 좋을 때 close 사용
+## ~ and ~ are (so)close
