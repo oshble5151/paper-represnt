@@ -9,3 +9,5 @@
 # we'll 위얼 we will
 
 ## we'll see 알게 되겠지 두고 봐야지
+
+# they're 데얼 they are
