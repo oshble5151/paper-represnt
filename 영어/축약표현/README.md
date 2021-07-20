@@ -11,3 +11,5 @@
 ## we'll see 알게 되겠지 두고 봐야지
 
 # they're 데얼 they are
+
+# you've 유브 you have
