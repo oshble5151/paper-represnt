@@ -14,8 +14,13 @@
 
 # you've 유브 you have
 
+# it'll 이들(이들) it will 의 축약형
+
+
 # there's the flirts arond the ~장소 aleady 여기엔 이미 ~ 가 있잖아
 ## there's 명사 ~가 있다.
+
+
 
 # chill 
 
