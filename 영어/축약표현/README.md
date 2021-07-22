@@ -16,6 +16,9 @@
 
 # it'll 이들(이들) it will 의 축약형
 
+# gotta 가러, 가더 = have got to = ~해야한다 (= have to, must )
+
+
 
 # there's the flirts arond the ~장소 aleady 여기엔 이미 ~ 가 있잖아
 ## there's 명사 ~가 있다.
