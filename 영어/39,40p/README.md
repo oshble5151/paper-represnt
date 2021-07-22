@@ -34,7 +34,9 @@
 
 # novel of mine 자신의 소설 
 
-# quote 인용하다 옮기다 쿠워트 quotation 쿼테이션 인용 인용구
+# quote 인용하다 옮기다 쿠워트
+
+# quotation 쿼테이션 인용 인용구
 
 # dedicate 데디케이트 바치다 전념하다 헌신하다 헌정하다
 
