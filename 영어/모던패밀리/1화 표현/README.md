@@ -61,4 +61,16 @@
 
 # as well 또한 역시 
 
+# i didn't mean to 일부러 그런게 아니야 
+
+# embarrass 임베러스 당황하게 만들다 곤란하게 만들다 
+
+# hang on 기다려라
+
+# it's first time you've had a boy over 
+
+# 사고였어 it's was an accident 
+
+# what did i tell you? 내가 뭐라고 했었지?
+
 
