@@ -1,4 +1,4 @@
-# reliance #  릴라이언스 의존 의지
+# reliance  릴라이언스 의존 의지
 
 # so ~ that ~해서 ~하다
 ## so 형용사/부사 that 
