@@ -36,4 +36,26 @@
 
 # venue 베뉴 장소
 
+# extreme 극도의, 극심한 / 명: 극단
+
+# advanced 형 : 선진의 고급의 발달단계상 후기의 
+
+# comfort 명 : 안락, 편안 / 형: 위로, 위안 / 동사: 위로하다
+
+# comfortable 형: 편안한 쾌적한 수월하게 생각하는 
+
+# candidate 캔디덧  명: 입후보자 , 후보자 지원자
+
+# innovate 이너베이디브 혁신적인 
+
+# innovativeness 이너베이디브니스 혁신적임 
+
+# several 세브럴 한정사 대명사 몇몇의 형: 각각,각자의
+
+#  match 
+## 1)명: 경기 시합
+## 2)동: 어울리다 연결시키다 맞먹다
+### none could match her innovativeness 
+
 # 
+
