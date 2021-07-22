@@ -82,3 +82,60 @@
 
 # follow through ~완수하다? 
 
+# what is more important here? 뭐가 더 중요해?
+
+# what about~ ~는 어때? 
+
+
+# 예정에 관해서 말할때, 
+## 1) he's got a birthday 그는 생일파티가 있어
+## 2) he's got a soccer game at 3:00
+
+# quit 쿠윗 큇 그만두다 떠나다
+## quitting 퀴딩 
+
+# stare at ~을 응시하다
+
+# 만약 니가 ~ 하지 않았었다면 표현 
+## if you weren't staring at that little girl 이프 유원트 스테얼링 엣 탯 리를 걸
+
+
+# blow up 거세지다 , 폭파하다 터뜨리다 / 명: 강타 충격
+## blow 바람이 불다 세게떄리다 강타하다
+
+# why do you have to do things like that? 그렇게 할 필요가 있었어?
+
+#무슨 일 하고 있어 물을때  
+# what do you do for work? 
+
+# take it down 진정하다 
+
+# a little bit 조금 (= a bit 조금 다소 약간)
+
+# that's all 그게 전부야
+# that's all im saying 그게 내가 말하는 전부야
+
+# 그렇게 감정적으로 될 필요가 없어
+## you don't have to so emotional all time
+
+# you are with me on this 너도 함께하지? 동의하지?
+
+# 고백하고 싶은 경우
+## i wanna tell 누구누구 i love her 
+
+# for God's sakes(세익스) 제발
+
+# watch it 경고의 의미 : 조심해
+
+# 그가 일하는 가게가고 싶어 : i wanna go to the mall he works 
+
+# stepmother
+# stepdad,stepfather 
+
+# put on 상연하다(토익용어) 몸에 걸치다
+## put on shirt
+
+# declare 디클레얼 분명히 말하다 선언하다 
+
+# swing from 휘돌다 급선회하다 
+## swang (과거형) 스웽 
