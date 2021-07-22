@@ -10,6 +10,11 @@
 
 # put out 내쫓다 해고하다 힘을 발휘하다. 불을 끄다 생산하다 출판하다.
 
+# put on 상연하다 몸에 걸치다 
+## exhibitions put on by the fashon industry 
+
+
+
 # popularity 파퓰래리디(티) 인기
 
 # popular 파퓰럴 인기있는 일반적인
