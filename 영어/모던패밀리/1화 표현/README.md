@@ -73,4 +73,12 @@
 
 # what did i tell you? 내가 뭐라고 했었지?
 
+# that's it? 그게 다야? 
+
+# through 트루 
+## 1) 전치사 : ~을 통해 ~사이로
+## 2) 부사 : 지나서 뚫고서
+## 3) 형용사 : 직행의 관통하는  
+
+# follow through ~완수하다? 
 
