@@ -5,9 +5,19 @@
 
 # upstairs 부사 위층으로 명: 위층  
 
+# text 문자 문서 / 문자를 보내다
+
+# outfit 
+1) 명사:  복장
+2) 갖추어주다(=equip)
+
+# 그런 일은 일어나지 않을거야 = that's not gonna happen
 # 1) way  
 ## 1-1) 명사 방법 방식
 ## 1-2) 부사 아주 멀리 훨씬, 큰차이로
+
+
+# 이게 무슨 문제야? what's wrong with it? 
 
 # 2) way
 ## 2-1) 길 도로 
@@ -72,7 +82,16 @@
 
 # would like to do ~하고 싶다 ~ 하는 것을 바라다
 
+# banister  배니스터 계단 난간 
+
 # get stuck  꼼짝 못하게 되다
+## luke got his head stuck in the banister again
+## 루크가 계단 난간에 또 머리가 끼었어  
+
+# that's not gonna happen 그런일은 일어나지 않아 
+## 댓츠낫 거너 해픈 
+
+# out of controll 통제 
 
 # get out 밖으로 나가다 빠져나가다 (머리가 틈에 낀 상황에서 빠져나가다 라고 할때 사용)
 
