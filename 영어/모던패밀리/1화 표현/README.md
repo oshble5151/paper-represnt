@@ -247,3 +247,5 @@
 # which one were you doing? 어떤걸 하고 있었니 
 
 # 나는 이걸 처음 듣고 있어요 = im hearing this for the first time
+
+# 
