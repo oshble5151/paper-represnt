@@ -1,7 +1,13 @@
 # thrill 뜨릴 
+## 1) 명 : 황홀감 흥분 설렘
+## 2) 동 : 열광시키다 황홀하게 만들다
+
 ## 유 앤 유얼 와이프 머스트비 뜨릴드 황홀할거예요
 
 # for the first time 처음으로 
+
+# surrogate 세러것 세러겟? 대리의 대용의
+## surrogate mother 
 
 # we have been together 함께했다
 
@@ -24,6 +30,7 @@
 
 # stick with ~와 함께있다 ~와 계속하다
 ## 유 거너 비 스턱윗 디스피플 폴더 넥스트 파이브아월즈
+## stuck 스턱 (stick - stuck - stuck)
 
 # grow up  성장하다
 
