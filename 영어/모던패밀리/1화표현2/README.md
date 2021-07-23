@@ -52,4 +52,27 @@
 
 # physiology 피지올로지 생리학
 
-# 
+# is that us? 이게 우리야?
+
+# reassure 리어슈얼 안심시키다
+
+# right? 맞지?
+
+# tear 텔 찢다 찢어진 곳 
+## tore 토얼
+
+# tear away 텔어웨이 억지로 떼어내다 벗기다 폭로하다
+
+# 니가 아는 모든것 = every thing you know 
+
+# by the way 그런데
+
+# a little less 약간더 적은 
+
+# with ~을 가진의 의미로 사용
+## with names like andre 이름이 안드레인
+## we need to stop having friends with names like andre
+## stop ~ing  ~하는 것을 멈추다
+
+# 집으로 돌아오는 길 표현
+## on the way home from the ~어디어디
