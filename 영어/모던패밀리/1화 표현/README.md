@@ -26,6 +26,41 @@
 # yell 동: 소리치다 고함치다 / 명 소리 고함
 ## yell at 호통치다 야단치다
 
+
+#  i don't want my kids to make the same bad mistake i made
+
+# naked 네이키드 형: 벌거벗은 아무것도 걸치지 않은 
+## half naked 해프 네이키드 
+
+# i've done my job 나 는 내일을 다한거야
+## job을 할일 의무 와 같은 의미로 쓴다 (부모의 의무)
+
+# trip 
+## 1) 동 발을 걸다 발을 헛디딤 
+## 2) 여행
+
+
+# notch 급수 표시 /동 : 올리다
+
+
+# he has big business 그는 큰 사업을 하고 있다. 
+
+# it's a number one village in all Colombia for all the ~ 콜롬비아에서 ~로 가장 유명한 마을이다
+
+# take out 시합에서 부진한 선수를 빼야 하는 상황에서 사용
+## you gotta take that kid out (축구시합 상황에서 선수를 내보내라고 할때 )
+## take him out 그를 빼다 
+## how about i take you out 내가 널 내보내면 어때   
+
+# tell off 야단치다 호통을 치다 
+
+# 지난 ~동안 표현 
+# for the last six weeks 지난 6주 동안
+
+
+
+
+
 # thrill 뜨릴 
 ## 1) 명 : 황홀감 흥분 설렘
 ## 2) 동 : 열광시키다 황홀하게 만들다
@@ -92,6 +127,9 @@
 ## 댓츠낫 거너 해픈 
 
 # out of controll 통제 
+
+
+ 
 
 # get out 밖으로 나가다 빠져나가다 (머리가 틈에 낀 상황에서 빠져나가다 라고 할때 사용)
 
