@@ -34,12 +34,22 @@
 # i've gained a few extra pounds while we were expecting the baby : 드라마에 나온표현
 # i have gained weghts가 더 자연스러운 표현
 
-# extra 형: 여분의 추가의 명: 추가되는것
+# extra 엑스트라 형: 여분의 추가의 명: 추가되는것
 
 # apparently 어패런(을:거의묵음)리 
 
 # nest 명 둥지 집 /  둥지를 틀다
 
-# apparent 형: 분명한 누가 봐도 알 수 있는 
+# apparent 어패런트 형: 분명한 누가 봐도 알 수 있는 
 
 # apparently 듣자 하니 보아하니
+
+# primal 프라이멀 태초의 원시의 
+
+# maternal 머털널 모성의 엄마같은 어미의, 모계의
+
+# some sort of 어떤 어떤 종류의 
+
+# physiology 피지올로지 생리학
+
+# 
