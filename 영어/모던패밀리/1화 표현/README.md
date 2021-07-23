@@ -139,3 +139,31 @@
 
 # swing from 휘돌다 급선회하다 
 ## swang (과거형) 스웽 
+
+# 꽃을 꺾다 => pick flowers
+## pick 고르다 꺾다 따다 / 명사 고르기 선택
+
+# underpants 팬티
+
+
+# tough 터프 1)형: 힘든 어려운 2) 명 폭력배 
+# toughen 터픈 동: 강화하다 강하게 만들다
+##  toughen up 완전히 강해지다
+
+# if it toughens him up( a little bit) 이건 그를 강하게 만들었을거야 
+
+# passionate 패셔넛 형: 열정적인 열렬한
+## he's passionate just like his father 그는 그의 아빠처럼 열정적이다
+
+# too 부사 너무 ~한  ~또한, 그것도
+
+# 우리가한 전부는 이라는 표현 => all we did was, 
+
+# seem like ~처럼 보이다
+
+# fall out 창문등 높은곳에서 떨어지다 / 군인등이 해산하다
+
+# were you doing?
+# which one were you doing? 어떤걸 하고 있었니 
+
+# 나는 이걸 처음 듣고 있어요 = im hearing this for the first time
