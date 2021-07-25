@@ -34,6 +34,8 @@
 # i've gained a few extra pounds while we were expecting the baby : 드라마에 나온표현
 # i have gained weghts가 더 자연스러운 표현
 
+# pome 시 포우엄 시
+
 # extra 엑스트라 형: 여분의 추가의 명: 추가되는것
 
 # apparently 어패런(을:거의묵음)리 
