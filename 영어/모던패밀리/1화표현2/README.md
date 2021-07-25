@@ -76,3 +76,18 @@
 
 # 집으로 돌아오는 길 표현
 ## on the way home from the ~어디어디
+
+# go on forever 영원히 갈것이다
+## this would have gone on forever
+
+# avoidance 어보이던스 회피 방지
+# avoid 방지하다 모면하다
+# avoider 어보이덜(외면하고 회피하려는 사람한테 사용)
+
+# don't answer it 답하지마 => 초인종에 대해서 답하지 마라고 할때 사용됨
+
+# i will get it 내가 나갈게
+
+# must be 딜런? 딜런이지?
+
+# 아직 고등학생이니? you're still high school?ㅇ
