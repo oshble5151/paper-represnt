@@ -239,3 +239,89 @@
 # exhale 내쉬다 내뿜다(숨 연기등)
 
 # right behind 바로 뒤에 
+## dad is comming right behind 아빠가 바로 뒤에 올거다
+
+# may i take your coat? 당신의 코트를 받아줘도 될까요?
+
+# how was your trip? 
+
+# i have something that i need to tell you guys 
+
+# anyway 어쨋든
+
+# harry had her first boy over today
+# don't mind 신경쓰지 마라
+
+# longing 갈망하는 열망하는  명: 갈망, 열망 
+
+# i started feeling this loging, for someting more like
+
+# 만약 심심하면 = you are bored 심심하면 
+
+# support 지지하다 지지하다
+
+# i think what dad is trying to say 
+
+# try to ~하려고 노력하다
+
+# up·tight 긴장한 초조한 자의식이 강한 
+
+# bring + 목적어 => ~을 가져오다 
+
+# you don'y handle it well
+
+# insult  인설트 모욕하다 명: 모욕 
+
+# in a whole (total) different way 완전히 다른 방법으로 
+
+# where's is ~ 누구는 어디있니?  
+
+# someone who's not insulting me notices he's not here
+
+# big announcement 중대발표 
+##  so that's the big announcement 그게 중대한 발표구나 
+
+# brake up 헤어지다 연인사이에 헤어질때 사용
+
+# let me tell you 
+
+# a bit of 약간
+
+# come into 우리집에 와서 의 상황에서 쓰는 표현 
+
+# dramatic 과장된 호들갑스러운 극적인, 감격적인, 인상적인, 
+
+# turn off 불을 끄는 상황에서 사용
+## turn off 불을꺼라 
+
+# it's who am i 그게 나야
+
+# isn't that gonna be hard for her to say ## 어려운 구문 
+
+# what do i know? 내가 뭘 알겠니
+
+# get it right 올바르게 이해시키다
+
+# screw up 스크류 업 망치다 엉망으로 만들다 
+
+# try all my life to get it right 평생을 바로잡기 위해 노력하다
+
+# anyhow 어쨋든
+
+# love is what binds us 사랑은 우리를 묶어주는 것이다
+
+# fit together 서로 잘 맞다 어울리다 
+
+# somehow
+
+# yet 아직 그렇지만 그런데도 하지만
+
+# through 
+1) ~을 통해 ~ 사이로 
+
+
+# beat 
+# 1) 동: 이기다
+# 2) 명: 맥박 고동 울림 
+## he has'nt beaten me in basketball
+## 
