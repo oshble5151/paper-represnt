@@ -92,4 +92,42 @@
 
 # must be 딜런? 딜런이지?
 
-# 아직 고등학생이니? you're still high school?ㅇ
+# 아직 고등학생이니? you're still high school?
+
+# alone 형/부 혼자, 외로운
+
+# spit 뱉다 침
+
+# rip 찢다 찢어진 곳
+
+## a pair of 한벌, 한쌍
+
+## a pair of jeans 진바지 한벌
+
+## ~할필요 없어 you shouldn't
+
+## you should only care what i think 넌 내가 생각하는 것만 생각해야해
+
+# i dont care how old are you  
+
+# stop being so hard on ~누구 누구에게 너무 냉정하게 굴지마 
+
+# the only reason (that) i'm hard on manny
+
+## hard on ~에게 엄한 
+
+# make a fool of oneself 바보짓을 하다
+## make a fool of himself 
+
+# i don't know what's gonna happen to him over there.
+## i don't know what's gonna happen 무엇이 일어날지 모른다
+
+# that means only onething 그것은 단하를 의미해 
+## mean 
+## 1) 동: 의미하다 의도하다 
+## 2) 형: 인색한
+## 3) 명 : 평균
+
+## means
+## 1) 수단, 방법, 방도
+## 2) 돈 재력
