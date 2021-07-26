@@ -97,6 +97,7 @@
 # alone 형/부 혼자, 외로운
 
 # spit 뱉다 침
+## spit in 침을 뱉다 
 
 # rip 찢다 찢어진 곳
 
@@ -122,7 +123,7 @@
 # i don't know what's gonna happen to him over there.
 ## i don't know what's gonna happen 무엇이 일어날지 모른다
 
-# that means only onething 그것은 단하를 의미해 
+# that means only onething 그것은 단하나를 의미해 
 ## mean 
 ## 1) 동: 의미하다 의도하다 
 ## 2) 형: 인색한
@@ -131,3 +132,110 @@
 ## means
 ## 1) 수단, 방법, 방도
 ## 2) 돈 재력
+
+## sheriff 쉐리프 보안관 
+
+## she gave me a picture as old-time sherrif
+
+# pretty 프리리(디)
+# 1) 형용사 매력적인 예쁜 귀여운 
+# 2) 부사 어느정도 꽤 
+
+# that was pretty stupid of me 
+
+# wasn't it 아니었나요?
+
+# stupid 형: 어리석은 명: 바보
+
+# better 베럴 형: 더 좋은 더 잘 하는 / 부 더 잘
+
+# i just getting my books 
+# need to respect their privacy 그들의 프라이버시를 존중해줘야 한다.
+
+# what are they doing 
+
+# ~하면서 ~하고 있다 
+## lying on her bed, watching a movie
+
+# swear 맹세하다
+
+# what are you wearing? 뭘 먹고 있니? 
+
+# how many pairs of underwear do you have on? 
+## have on   = wear 
+
+# 그중 가장먼저, 제일 = first of one 
+
+# 핼리가 살찐 모습을 보는게 기대되, 멋질거 같아
+## it would be really cool to see Harely 
+## it would be really cool to see Harely that fat 
+
+# how awesome would it be to have a fake little brother who's really my nephew ????? 구문 이해 안감 
+
+# nephew  네퓨 조카 
+## brother who's really my nephew 사실은 내 조카인 동생
+
+# get pregnant 임신하다
+# she is not getting pregnant 그녀는 임신하지 않아  
+
+# make trouble (for) 누구 : 누구를 골탕먹이다.
+## i know you like to make trouble for your sister
+
+# work 통하다 효과가 있다
+## it's not gonna work this time = 이번에는 통하지 않을거다 
+
+# you know why ? 왠지 알아?
+
+# 니가 배우는 좋은 기회야 
+## this is an important lesson that you're learning
+
+# soak it , keep it => 새겨둬라?
+
+# it's gonna hurt 다칠거야 
+
+# why are you smiling 
+
+# the point is you're scared 요점은 니가 겁을 먹는 거야 
+
+# i was dropping off some laundry 나는 ~하고 있었다 
+
+# laundry 론드리 세탁물 
+
+# shut the door 문을 닫다
+
+# underneath  언널니쓰
+## 1) 전치사/부사 ~의 밑의 하부의
+## 2) 명 밑면 하부
+
+# freak out 환각증상을 보이다 
+## freak 
+# 1) 명 : 괴물 광적인 사람
+# 2) 형 : 기이한 별난 
+# 3) 동 : 기겁하다 기겁하게 만들다
+
+# my dad isn't completely comfortable with this 
+# is not completely comportable with this
+
+
+# he does this thing 그는 그걸 해요 
+
+# 5년이다 되었어 => it's been five years now
+
+# 
+
+# 방에 들어가기 전에 알릴때 
+## he announces himself
+
+# walk into a room 방으로 들어가다
+## walk into a room we're in 방으로 들어가다
+# make sure ~을 확실하게 하다
+
+# spirit 정신 영혼 기분 마음 /동: 재빨리 채어가다
+
+#  Get in the spirit 분위기를 맞추다
+
+# get ready ~을 준비하다
+
+# exhale 내쉬다 내뿜다(숨 연기등)
+
+# right behind 바로 뒤에 
