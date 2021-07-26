@@ -324,4 +324,12 @@
 # 1) 동: 이기다
 # 2) 명: 맥박 고동 울림 
 ## he has'nt beaten me in basketball
-## 
+
+# what's the key to being a great dad?
+## tough 형용사: 힘든, 어려운 터프 명 : 폭력을 쓰는 사람
+## that's a tough one 어려운 것이네요 (질문에 대해 어렵다는 이야기를 할때 사용)
+
+
+# no one can beat him in baseketball
+##  
+
