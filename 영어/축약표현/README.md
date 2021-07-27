@@ -24,6 +24,8 @@
 ## there's 명사 ~가 있다.
 
 
+# i'd 아이드 = i would or i had
+
 
 # chill 
 
