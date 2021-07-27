@@ -27,3 +27,85 @@
 # slept 슬렙트 sleep의 과거, 과거분사
 
 # watch out ,watch it 조심해라 
+
+# until he's responsible enough to take care of his own bike ?? 구문 이해 어려움
+
+# spill 쏟다 흘리다 
+## spill on computer 컴퓨터에 쏟다
+## spill out  넘쳐흘르다 
+ 
+# take care of 돌보다 뒷바라지 하다 ~에 조심하다 신경을 쓰다 ~을 소중히 하다
+
+# ruin 망치다 엉망으로 만들다 / 명: 붕괴 몰락
+## he ruined our digital camera taking pictures of himself underwater
+# take care of bike 
+
+# all for ~에 대찬성인 
+## i'm all for teaching him a lesson 교훈을 주는 것에 찬성한다.
+
+# ridicule 
+## 1)명: 조롱 조소 
+## 2)동: 비웃다 조롱하다
+
+# bully 
+## 1)명: 약자를 괴롭히는 사람 
+## 2)동: 괴롭히다 협박하다 왕따 시키다 
+
+# i worry about the ridicule he might get from some loudmouth bully 불량배에게 놀림이 될까봐 걱정이다
+
+# a man's gotta put his foot down and do what a man's gotta do ???? 구문 어려움
+
+# who is excited(수동표현) 누가 즐겁니?
+
+# embarrass 임베러스 
+
+# late 
+## 1) 형용사 늦은
+## 2) 부사 늦게
+
+# toddler 탈덜 걸음마를 배우는 아이
+
+# enough 한정사 대명사 부사: 
+
+# im wearing it underneath 안에 입었어
+
+# just chill please 진정해주세요
+# i wanna make a good impression  좋은 느낌을 주고 싶어
+## make an impression 느낌을 주다
+
+# fit in ~와 어울리다 맞다
+
+# terrify 테러(리?)파이 무섭게 하다 겁먹게 하다
+# villager 빌리졀 마을 사람
+
+# today is about lilly 오늘은 릴리의 날이야 
+
+# might be in that class => 그 교실에 있을수 있어
+
+# rub ~ the wrong way 건드리다 화나게 하다 
+## i don't wanna anyone the wrongway 
+
+# put on ~을 입다 (옷을 입는 것에 사용)
+
+# hot tub 온수 욕조
+
+# pack 짐등을 싸다 꾸리다 옷가지를 챙기다 포장하다
+## pack whatever you wear in hot tub
+## 아무것도 입지않다 = wear nothing 
+## 나는 욕조에 있을때 아무것도 입지 않아 = i wear nothing when i'm in a hot tub
+
+# a couple of days 이틀정도 
+
+# keep one's ground 위치를 지키다 중심을 잡다
+
+# be supposed to do ~하기로 되어있다 해야한다
+
+# this is the coolest bike 가장멋진 자전거예요
+## this is the coolest bike ever ?? 최상급과 ever의 역할 잘 모르겠음
+
+# your words, not mine
+
+# 의미상 주어 다시 공부하기
+## this is a chance for you to show responsibility
+
+## don't make us look like jerks 우리를 바보처럼 만들지마, 실망시키지 마
