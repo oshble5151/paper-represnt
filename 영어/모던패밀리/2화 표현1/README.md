@@ -109,3 +109,10 @@
 ## this is a chance for you to show responsibility
 
 ## don't make us look like jerks 우리를 바보처럼 만들지마, 실망시키지 마
+
+# i need to be done by ~ => ~언제 까지 해야한다. 
+
+# that's when my dad's picking me up 그때가 아빠가 나를 데리러 올떄다
+
+# ~를 다하면 이라는 표현=> be done
+# 3시까지 다하면, we 
