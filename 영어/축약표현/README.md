@@ -26,9 +26,13 @@
 
 # i'd 아이드 = i would or i had
 
+# won't = will not 원트 
+## i won't  그러지 않을 거예요
 
 # chill 
 
 1) 명 냉기 오한 동사 아주 춥게 만들다
 
 2) 느긋한 여유로운 칠(치얼)
+
+# i need to be done by~  ~까지 끝내야 한다.
