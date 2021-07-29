@@ -150,3 +150,22 @@
 
 # let과 수동태을 이용한 구문
 # let him think his bike was stolen
+
+
+# 너무한 상황에서, 말이 심한 상황 : 러프 
+## rough  러프 고르지 못한 거친 
+## i know that sounds kind of rough 
+## it's a dad's job to be the tough guy
+
+## join ~와, ~에 함께하다 ex) join us 
+## we have a new family  join us today
+## 친구가 생기다 같은 상황에서 have 사용
+
+
+# 나는 현재 일을 안하고 있다.
+## i'm currently not working 
+## current 커런트 현재의 통용의 , 명:해류 흐름 기류
+
+# 더많은 시간을 자신에게 소요하고 있다의 상황에서
+## i give me more time to grill and shoot 
+
