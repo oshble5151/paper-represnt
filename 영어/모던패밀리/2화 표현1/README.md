@@ -167,5 +167,5 @@
 ## current 커런트 현재의 통용의 , 명:해류 흐름 기류
 
 # 더많은 시간을 자신에게 소요하고 있다의 상황에서
-## i give me more time to grill and shoot 
-
+## i give myself more time to grill and shoot 
+## ~, which gives me more time to~ 
