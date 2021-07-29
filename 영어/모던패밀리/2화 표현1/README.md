@@ -115,4 +115,38 @@
 # that's when my dad's picking me up 그때가 아빠가 나를 데리러 올떄다
 
 # ~를 다하면 이라는 표현=> be done
+
 # 3시까지 다하면, we 
+
+# let's just be ourselves 우리가 하던대로 하자
+
+# slight 형 약간의 조금의
+
+# slightly 부 약간 조금 
+
+# tone down 누그러뜨리다 진정하다
+
+# toddler 걸음마를 배우는 아이 
+
+# toddler time 놀이교실
+
+## are you here for ~ ? ~ 때문에 여기 오셨나요?
+
+# take turn 교대로 하다 번갈하 하다
+## can we take turns using this? 이걸 교대로 사용해도 될까요? 
+
+# this gonna be difficult 어려워 질거야
+
+# make a promise  약속을 하다 약속을 맺다
+
+# leave = 떠나다 (물건으로 부터) 출발하다 
+## he leaves his bike unlocked
+
+
+# 내가 들을수 있는 모든것은 ~입니다.
+## all i can hear, tom's voice 내가 들을수있는 모든것은 그의 목소리다.
+
+# decide to ~을 결정하다
+
+# let과 수동태을 이용한 구문
+# let him think his bike was stolen
