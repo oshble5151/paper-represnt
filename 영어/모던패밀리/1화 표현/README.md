@@ -138,7 +138,7 @@
 
 # specialist 전문가, 전문의
 
-# why don't you
+# why don't you 왜 ~하지 않니
 
 # take it outside 밖으로 가지고 가다, 싸우는 사람보고 나가서 싸우라고 할때 사용
 
@@ -172,7 +172,7 @@
 # what about~ ~는 어때? 
 
 
-# 예정에 관해서 말할때, 
+# get => 가지고 잇는 예정에 관해서 말할때, 
 ## 1) he's got a birthday 그는 생일파티가 있어
 ## 2) he's got a soccer game at 3:00
 
@@ -234,10 +234,12 @@
 # tough 터프 1)형: 힘든 어려운 2) 명 폭력배 
 # toughen 터픈 동: 강화하다 강하게 만들다
 ##  toughen up 완전히 강해지다
+## if it toughens him up a little bit
+## 만약 이것이 그를 좀더 강하게 한다면 
 
 # if it toughens him up( a little bit) 이건 그를 강하게 만들었을거야 
 
-# passionate 패셔넛 형: 열정적인 열렬한
+# passionate 패셔넛(넷?) 형: 열정적인 열렬한
 ## he's passionate just like his father 그는 그의 아빠처럼 열정적이다
 
 # too 부사 너무 ~한  ~또한, 그것도
@@ -247,6 +249,8 @@
 # seem like ~처럼 보이다
 
 # fall out 창문등 높은곳에서 떨어지다 / 군인등이 해산하다
+# fall 폴 빠지다 
+# fell 펠
 
 # were you doing?
 # which one were you doing? 어떤걸 하고 있었니 
