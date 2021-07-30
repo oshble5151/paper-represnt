@@ -58,12 +58,20 @@
 
 # reassure 리어슈얼 안심시키다
 
+# assure 동: 장담하다 확인하다 보장하다
+
 # right? 맞지?
 
-# tear 텔 찢다 찢어진 곳 
-## tore 토얼
+# tear 텔 
+## 1) 동사:  찢다 찢어진 곳
+## 2) 명사: 찢어진 곳 구멍 
+
+## tore 토얼  
 
 # tear away 텔어웨이 억지로 떼어내다 벗기다 폭로하다
+
+# we tore you away from everything you know, but don't worry  
+
 
 # 니가 아는 모든것 = every thing you know 
 
@@ -75,6 +83,9 @@
 ## with names like andre 이름이 안드레인
 ## we need to stop having friends with names like andre
 ## stop ~ing  ~하는 것을 멈추다
+
+# turn into ~로 변하다  
+# 너의 이해에 안심이 된다 i'm so relieved you understand 
 
 # 집으로 돌아오는 길 표현
 ## on the way home from the ~어디어디
@@ -96,7 +107,7 @@
 
 # alone 형/부 혼자, 외로운
 
-# spit 뱉다 침
+# spit 스핏 뱉다 침
 ## spit in 침을 뱉다 
 
 # rip 찢다 찢어진 곳
