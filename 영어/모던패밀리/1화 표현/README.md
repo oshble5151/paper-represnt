@@ -51,6 +51,11 @@
 ## you gotta take that kid out (축구시합 상황에서 선수를 내보내라고 할때 )
 ## take him out 그를 빼다 
 ## how about i take you out 내가 널 내보내면 어때   
+## take something out ~를 제거하다 빼다
+
+
+
+
 
 # tell off 야단치다 호통을 치다 
 
