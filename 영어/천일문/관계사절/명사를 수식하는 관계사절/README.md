@@ -10,6 +10,8 @@
 ### 관계 대명사의 종류
 ## 1) 주격 관계대명사 who , which, that 
 ### 관계사 내에서 who which that이 접속사이자 주어역할을 한다. => 바로 뒤에 동사가 온다.
+### 즉 관계사 뒤에 바로 동사가 오면 생략 할 수 없다.
+### i bumped into a girl who was staring at her smartphone
  
 
 
