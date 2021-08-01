@@ -169,3 +169,19 @@
 # 더많은 시간을 자신에게 소요하고 있다의 상황에서
 ## i give myself more time to grill and shoot 
 ## ~, which gives me more time to~ 
+
+# these 형용사 대명사
+# other 대명사 형용사 다른, 다른사람
+
+# dance us in 우리와 춤추자 
+
+# tamp down 누르다 억압하다
+## tamp 동: 다져넣다 눌러담다
+
+# gift 
+##  1) 명: 선물 기증품, 재능 재주
+##  2) 동: 내주다
+
+# slap 철썩 때리다 / 찰싹 때리기
+
+# dirty 형: 더러운 지저분한 동:더럽히다
