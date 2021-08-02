@@ -31,4 +31,11 @@
 
 # help 목적어 동사 목적어가 동사하게 도와주다
 
-# 
+# move into 이동하다 
+# move in 이사를 들다
+
+# accommodate 어카머데이트  공간을 제공하다 수용하다.
+
+# allow  목적어 to v  : 목적어가 to v 하는것을 허락하다.
+
+# 감정형용사 + that + s + v
