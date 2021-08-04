@@ -41,3 +41,5 @@
 # pour 포얼 붓다 따르다 
 
 # at least twice a week
+
+# even though ~ 일지라도
