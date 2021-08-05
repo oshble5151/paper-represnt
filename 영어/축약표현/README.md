@@ -26,6 +26,8 @@
 
 # i'd 아이드 = i would or i had
 
+
+
 # won't = will not 원트 
 ## i won't  그러지 않을 거예요
 
@@ -36,3 +38,10 @@
 2) 느긋한 여유로운 칠(치얼)
 
 # i need to be done by~  ~까지 끝내야 한다.
+
+# how'd = how did how would how had
+
+# ain't =  are not, is not, am not, has not, have not
+
+
+# 
