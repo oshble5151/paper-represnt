@@ -43,3 +43,19 @@
 # at least twice a week
 
 # even though ~ 일지라도
+
+
+# mince 민스 갈다 
+
+# chop 챱 동 썰다 다지다 
+
+# cheap 형: 싼 돈이 적게 드는 부: 싸게
+
+# ever since 그 이래 줄 곧 
+## ever since that time 그 이후로 줄곹
+
+# fall apart 허물어지다 부서지다
+
+# the restaurant was gone 그 가계는 없어졌다.
+
+# isn't it? 그렇지 않니?
