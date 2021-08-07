@@ -1,0 +1,10 @@
+# wish 가정법
+## 1) 현재(과거)의 상황을 소망할때
+## 2) 명사절을 목적어로 사용하여 가정법 사용
+
+# 현재 이룰수 없는 소망 을 표현할때
+## 명사절에 조동사 혹은 동사의 과거형 와야함 => ~ 이길 바란다 / ~면 좋을텐데
+## ex) i wish i could be researsher
+
+# i wish my mom allowed me to go to the concert
+
