@@ -98,3 +98,20 @@
 ## delve 델브 ~을 뒤지다 조사하다 
 
 ## delve into ~ 을 철저하게 조사하다
+
+## count on ~을 기대하다 
+## you cna count on it 
+
+# i got email 이메일을 받았어
+
+# acquaintance 어퀘인턴스
+## 1) 지인
+## 2) 친분
+## 3) 지식
+
+#  he keeps finding weird things and 
+
+# rave 레이브 
+## 1) 열변토하다 격찬하다
+## 2) 미친듯이 악을 쓰다 헛소리하다 횡설수설하다
+## raving 형 : 
