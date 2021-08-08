@@ -44,4 +44,7 @@
 # ain't =  are not, is not, am not, has not, have not
 
 
-# she'd = she had / she would
+# she'd 쉬드 = she had / she would
+
+# she said she'd be down in just a minute
+
