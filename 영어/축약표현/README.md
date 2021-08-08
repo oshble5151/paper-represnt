@@ -44,4 +44,4 @@
 # ain't =  are not, is not, am not, has not, have not
 
 
-# 
+# she'd = she had / she would
