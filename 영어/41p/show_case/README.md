@@ -57,5 +57,5 @@
 ## 2)동: 어울리다 연결시키다 맞먹다
 ### none could match her innovativeness 
 
-# 
+#  
 
