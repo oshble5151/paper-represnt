@@ -23,5 +23,5 @@ as soon as
 ## 시간과 조건의 부사절은 현재시제가 미래시제를 대신한다.
 ### if you are morning person, try studying in the morning
 
-## bess won't attack you , you will miss the opportunity
+## bess won't attack you , you will miss the opportunity 
 
