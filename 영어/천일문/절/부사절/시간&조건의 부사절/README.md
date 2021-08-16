@@ -25,3 +25,6 @@ as soon as
 
 ## bess won't attack you , you will miss the opportunity 
 
+# though 도우 
+# tough 터프
+
