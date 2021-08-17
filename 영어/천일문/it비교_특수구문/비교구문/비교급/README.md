@@ -8,6 +8,8 @@
 ### a load of bread is better than the song of many birds 
 ## more 형용사
 
+### i find math lessons more enjoyble than science lessons 
+
 ### at that time 그때의 그시간에
 
  
