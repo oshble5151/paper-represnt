@@ -20,3 +20,17 @@
 ## whether he will pass the exam is not certain yet
 
 ## it is not certain whether yawning is passded from person to person
+
+## why dinosaurs became extinct is still unclear 
+
+## scientists discovered what cause  cancer
+
+## who made the sculpture is still unkown 
+
+### extinct 익스팅트 멸종된
+
+### sculpture 조각 조소 스컬쳡
+
+### 
+
+
