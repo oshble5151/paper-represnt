@@ -9,8 +9,10 @@ how hard geniuses work is beyond your imagination
 
 # 네가 어떤 전공을 선택할지는 너의 미래에 영향을 미칠것이다 
 ## which major you chosee will affect your future
-
+## we discussed which kind of cat we will raise 
 # beyond 
 ## 1) 전치사 : ~저편에 ~너머 ~이상
 
 ## 2) 부사 : ~ 지나 ~이상 
+
+
