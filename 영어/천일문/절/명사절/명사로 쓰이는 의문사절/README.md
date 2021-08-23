@@ -17,3 +17,6 @@
 ### 의문사 자체가 주어로 쓰일경우: 의문사 + 동사
 
 
+## whether he will pass the exam is not certain yet
+
+## it is not certain whether yawning is passded from person to person
