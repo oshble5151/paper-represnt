@@ -29,7 +29,7 @@
 ### notable cold bais
 
 ## outperform 아웃펄폼 더 나은 결과를 내다, 능가하다
-
+ 
 ## intra-seasonal 인트라 시즈널 내부계절 변화
 # interannual 연간 
 
