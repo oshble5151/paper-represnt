@@ -28,3 +28,6 @@
 ## marry
 
 ## suit
+
+# s v o문형에서의 주요 구동사
+## depend rely on, give up, look at, put off, look up to, catch sight of
