@@ -25,8 +25,8 @@
 ## 원급과 배수표현으로 몇배를 나타낼수 있다.
 ## half, twice , three times, ...
 
-### his voice loud
-### his voice as loud as mine
-### his voice about twice as loud as mine
+### his voice is loud
+### his voice is as loud as mine
+### his voice is about twice as loud as mine
 
 
