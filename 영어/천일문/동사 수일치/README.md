@@ -1,12 +1,7 @@
 # 인칭 정리
-## 1) i / we
-## 2) you / you (너희들) 
-## 3) she he it  / they
-
-
-
-
-
+## 1인칭) i / we
+## 2인칭) you / you (너희들) 
+## 3인칭) she he it  / they
 
 
 # 일반동사의 경우
