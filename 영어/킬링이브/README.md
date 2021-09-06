@@ -118,6 +118,6 @@
 
 # turn up 나타나다, 도착하다.
 
-# have you seen it? 봤어요? 
+# have you seen it? 봤어요?  
 
 ## i'm gonna pop down there quickly 
