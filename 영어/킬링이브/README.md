@@ -121,3 +121,5 @@
 # have you seen it? 봤어요?  
 
 ## i'm gonna pop down there quickly 
+
+# if she aware of anyone  who
