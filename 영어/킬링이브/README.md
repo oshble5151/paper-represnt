@@ -109,3 +109,15 @@
 ## 그는 톰이나 톰의 여자친구가 알아채지 못하게 톰을 베었다
 
 # collapse 동 붕괴하다 (의식을 잃고)쓰러지다 
+
+# pop down 잠깐 들리다
+
+# cough up 커프 업 뱉다 내놓다 토해내다
+
+# sign off 승인하다 결제하다
+
+# turn up 나타나다, 도착하다.
+
+# have you seen it? 봤어요? 
+
+## i'm gonna pop down there quickly 
