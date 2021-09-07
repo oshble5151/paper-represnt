@@ -10,6 +10,42 @@
 
 # V17에서 기후학은 목표 연도를 제외하고 공통 기간과 동일한 요일과 월에 초기화되는 재예보를 평균화하여 교차 검증된 방식으로 계산됩니다.
 
+
+![image](https://user-images.githubusercontent.com/73323188/132273816-76d8d211-1812-4280-9838-e95a51503eed.png)
+### A0 - 관측된 MJO 진폭
+### Am = 예측된 MJO 진폭
+### covariability 공분산 관계
+
+![image](https://user-images.githubusercontent.com/73323188/132274237-d3c2bb18-f563-4eb4-8a4c-419c46279463.png)
+### RMM space에서의 관측된 그리고 예측된 MJO 위상
+
+### 여기서 O1(t)와 O2(t)는 시간 t에서 관측된 RMM1 및 RMM2 지수이며, M1(t, t)과 M2(t, t)는 각각 리드 타임 t가 t인 재예측치이다.
+
+
+# 본연구에서 사용된 중요 metrics BCOR이다
+
+# BCOR 이변량 이상 상관 계수(BCOR)
+![image](https://user-images.githubusercontent.com/73323188/132274594-880fe6ae-443d-4d83-af93-3d3813445df6.png)
+
+## 이전 연구에 따라 BCOR가 0.5보다 낮아질 때(예: Rashid et al. 2011) 각 모델의 MJO 예측 기술은 예측 리드 타임으로 결정된다.
+
+## 이 임계값의 선택은 다소 임의적이므로 0.7과 같은 다른 임계값도 민감도 실험에서 고려됩니다.
+
+
+# BMSE 이변량 평균제곱 오차  bivariate-mean-squared error
+![image](https://user-images.githubusercontent.com/73323188/132276187-b0fb12a5-ef3b-4f63-a282-8086670745ac.png)
+
+# RMSE < 루트 2는  일반적으로 예측 스킬을 결정하는데 사용된다.
+
+# 따라서 BMSE는 아래와 같이 진폭-오류 구성요소인 BMSea와 위상-오류 구성요소인 BMSep로 분해할 수 있습니다.
+![image](https://user-images.githubusercontent.com/73323188/132277422-78795559-4d45-434b-86cd-89ca2c9a0091.png)
+
+![image](https://user-images.githubusercontent.com/73323188/132277577-0741c8aa-4c55-4b34-ab70-823bc22ec8a9.png)
+
+
+
+## relative 렐러티브 
+## arbitrary 알버트렐리 임의적인
 ## derive 목 전+목
 ## cross-validated 교차 타당한 상관관계 계수
 ## indices 인디시즈 index 복수 
