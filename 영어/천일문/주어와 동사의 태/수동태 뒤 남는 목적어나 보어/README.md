@@ -10,3 +10,7 @@
 
 ## the scoring process should be made clear 
 ## they should make the scoring process clear
+
+
+## jeju has been called samda
+## people have called jeju samda
