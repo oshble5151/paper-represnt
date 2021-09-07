@@ -123,3 +123,21 @@
 ## i'm gonna pop down there quickly 
 
 # if she aware of anyone  who
+
+# can someone get her a tea? 누가 그녀에게 차를 가져다 줄래?
+
+# we need to get her to a facility
+# i just picked up a couple of phrases 몇마디 
+
+# phrase 구 / 표현하다
+# soldiering through?
+
+# turn out 드러내다 
+
+# it's great turn-out 
+
+## jealousy 젤러시 질투 시기 
+
+# jealous 질러스 => 질투하는 시기하는 
+# i will get him? 그를 데려올게/? 
+## shoul i be jealous?
