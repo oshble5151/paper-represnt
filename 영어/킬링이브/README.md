@@ -135,9 +135,14 @@
 # turn out 드러내다 
 
 # it's great turn-out 
+# all over the presss 전언론에 걸쳐
 
 ## jealousy 젤러시 질투 시기 
 
 # jealous 질러스 => 질투하는 시기하는 
 # i will get him? 그를 데려올게/? 
 ## shoul i be jealous?
+# have you had a haircut
+# they might ~ 할수 있다.
+
+# wear down 머리를 풀어요
