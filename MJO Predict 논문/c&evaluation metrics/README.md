@@ -56,7 +56,7 @@
 ## derive 목 전+목
 ## cross-validated 교차 타당한 상관관계 계수
 ## indices 인디시즈 index 복수 
-## index 인덱스 
+## index 인덱스  
 ## empirical 임피리클 경험에 의한 실증적인
 ## orthogonal 올터거널 직각, 직교의 
 
