@@ -146,3 +146,5 @@
 # they might ~ 할수 있다.
 
 # wear down 머리를 풀어요
+
+# is there anything you need at the shop
