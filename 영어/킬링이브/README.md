@@ -75,7 +75,7 @@
 
 # apology 어팔러지 명사 사과
 
-# diplomatic 디플매릭 형 외교의 외교적 수완이 있는
+# diplomatic 디플러매릭 형 외교의 외교적 수완이 있는
 
 # liaison 리에이전 리어젼 연락 연락 담당자
 
