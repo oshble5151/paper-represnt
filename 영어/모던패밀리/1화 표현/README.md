@@ -1,6 +1,6 @@
 # get 은 데려오다 불러오다 뜻이있다
 ## would get them 애들좀 불러줄래? (아침에 애들을 깨워야 하는 상황에서)
-
+ 
 ## get down here 여기로 내려와
 
 # upstairs 부사 위층으로 명: 위층  
