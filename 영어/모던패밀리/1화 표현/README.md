@@ -8,7 +8,7 @@
 # text 문자 문서 / 문자를 보내다
 
 # outfit 
-1) 명사:  복장
+1) 명사:  복장 
 2) 갖추어주다(=equip)
 
 # 그런 일은 일어나지 않을거야 = that's not gonna happen
@@ -251,7 +251,7 @@
 # fall out 창문등 높은곳에서 떨어지다 / 군인등이 해산하다
 # fall 폴 빠지다 
 # fell 펠
-
+ 
 # were you doing?
 # which one were you doing? 어떤걸 하고 있었니 
 
