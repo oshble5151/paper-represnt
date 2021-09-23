@@ -17,7 +17,9 @@
 
 ## 의문사 + do you think [belive say]  
 ### 의문사가 문장 맨앞에 오며 의문사 의문문 형태를 띤다.
-### 의문사 + do you think [belive say] + S +  V
+### 의문사 + do you think [belive say] + (S) +  V
+
+### where do you say the best place for dating is ?
 
 
 ## beyond
