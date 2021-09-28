@@ -11,20 +11,26 @@ since
 until
 ## boil the potatoes until they are soft 
 
-before 
-after 
-as
-as soon as
+## before 
+## after 
+## as ~ 할때
+### as you walk in the park, you can also enjoy the view, ~하면서
+## as soon as
 
 
 # hay 건초
 
 # 2) 조건
+# if unless => 실현가능한 조건
+
+# 
+
 ## 시간과 조건의 부사절은 현재시제가 미래시제를 대신한다.
 ### if you are morning person, try studying in the morning
 
 ## bess won't attack you , you will miss the opportunity 
 
+## unless you try, you will miss the opportunity
 # though 도우 
 # tough 터프
 
