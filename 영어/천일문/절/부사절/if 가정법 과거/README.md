@@ -28,6 +28,6 @@
 
 # should 나 were to 를 사용하여 일어날 가능성이 더욱 없거나 희박한 표현을 사용 가
 # If all the water on earth should disappear, life wouldn't survive 
-
+# if I were to have no friends, i might be terribly lonely
 
 
