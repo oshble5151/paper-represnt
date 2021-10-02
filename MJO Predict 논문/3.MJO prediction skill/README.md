@@ -68,6 +68,6 @@
 
 # 피규어2 
 ![image](https://user-images.githubusercontent.com/73323188/132450483-ffc71844-26c7-4aab-bdd1-d569b7985ae1.png)
-
+ 
 # 피규어3 
 ## 피규어3는 초기 MJO위상에 대한 MJO예측 기술의 민감도를 나타냅니다
