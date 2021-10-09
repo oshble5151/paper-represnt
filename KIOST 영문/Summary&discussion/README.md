@@ -1,5 +1,5 @@
 # horizontaln 호러전틀 형: 수평의 
-
+ 
 # We have developed KIOST-ESM, a new ESM based on GFDL CM2.5 with lower horizontal resolution but with new physical parameterization schemes applied to the atmosphere, land, and ocean component models. 
 ## but with의 의미 모르겠음
 
