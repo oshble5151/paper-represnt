@@ -29,4 +29,15 @@
 
 ## 의문문 : did  동사원형
 
+# 우리는 피자를 먹는다 we eat pizza 
+# 우리는 피자를 먹지 않는다 we don't pizza
+# 우리는 피자를 먹나요 do we eat pizza? 
+
+# 그는 피자를 먹어  he eats pizza
+# 그는 피자를 먹지 않는다 he doesn't eat pizza
+# 그는 피자를 먹나요? does he eat pizza 
+
+# 그들은 피자를 먹었다. they ate pizza
+# 그들은 피자를 먹지 않았다 they didn't eat pizza
+# 
 
