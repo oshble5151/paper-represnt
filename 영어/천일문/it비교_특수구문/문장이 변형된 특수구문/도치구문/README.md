@@ -14,15 +14,16 @@
 ## Rarely does he come late to class
 ## he Rarely comes late to class
 
-# 2) 장소나 방향을 나타내는 부사구가 문두에 올경우 
-# 예외) 일반동사가 do를 사용하지 않고 그대로 도치된다.
+# 2) 장소나 방향을 나타내는 부사구
+## 장소나 방향을 나타내는 부사구가 문두에 올경우 
+## 예외) 일반동사가 do를 사용하지 않고 그대로 도치된다.
 
 ## under the table is the remote control
 
 ## from the south came a powerful wind 
 ### 북쪽에서 부터 강한 바람이 불어왔다.
 
-# 관용도치
+# 3) 관용도치
 ## there V + S => 
 ## i like to watch soccer games, and so does my brother 
 ## my granma was a teacher, and so was my mother
