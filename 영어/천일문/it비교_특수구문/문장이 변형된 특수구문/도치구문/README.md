@@ -1,10 +1,10 @@
 # 특정어구가 강조를 위해 앞으로 나갈때 기본 어순 s v 가 v s로 바뀜
 
 # 어구가 바뀌는 경우
-## 1) 부정어구를 포함한 어구가 강조되어 앞으로 갈때 반드시 도치가 일어난다.
-##  be동 => 
-##  조동사 본동사 => 
-##  일반동사 => do /does/ did + S
+# 1) 부정어구를 포함한 어구가 강조되어 앞으로 갈때 반드시 도치가 일어난다.
+#  be동 => 
+#  조동사 본동사 => 
+#  일반동사 => do /does/ did + S
 
 
 ## i hardly thought that he would fail
@@ -14,7 +14,7 @@
 ## he Rarely comes late to class
 
 # 2) 장소나 방향을 나타내는 부사구가 문두에 올경우 
-## 예외) 일반동사가 do를 사용하지 않고 그대로 도치된다.
+# 예외) 일반동사가 do를 사용하지 않고 그대로 도치된다.
 
 ## under the table is the remote control
 
