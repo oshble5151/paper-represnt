@@ -5,5 +5,28 @@
 
 ![image](https://user-images.githubusercontent.com/73323188/136760118-238c5b53-0055-470c-ae76-933d58db4b2c.png)
 
+# 3인칭 단수 일때만 주의
+
+# 평서문 
+## 1) 3인칭 단수 제외 일반동사를 그래도 씀
+## 2) 3인칭 단수 => 일반동사s
+
+
+
+# 부정문
+## 1) don't
+## 2) doesn't => 오직 3인칭 단수 ex) he doesn't like me
+
+# 의문문
+## 1) do you like it? 
+## 2) does he like it?
+
+# 과거형 일때
+
+## 평서문 : 동사뒤에 ed 붙임
+
+## 부정문 : didn't + 동사원형
+
+## 의문문 : did  동사원형
 
 
