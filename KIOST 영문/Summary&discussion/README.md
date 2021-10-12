@@ -4,7 +4,7 @@
 ## but with의 의미 모르겠음
 
 ## exhibit 익지빗 전시하다 , 전시품
-## mitigate  미디게이트 완화시키다
+## mitigate  미디게이트 완화시키다 
 ## austral 어스트럴 형: 남쪽의
 ## 완화 mitigate
 ### KIOST_ESM exhibited 성능을 나타내다? 보여주다
