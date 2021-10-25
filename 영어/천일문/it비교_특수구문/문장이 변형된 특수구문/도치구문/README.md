@@ -9,6 +9,7 @@
 
 
 ## i hardly thought that he would fail
+## 나는 그가 실패할거라고 거의 생각하지 않았다.
 ## hardly did i think that he would fail 
 
 ## Rarely does he come late to class
@@ -26,5 +27,8 @@
 # 3) 관용도치
 ## there V + S => 
 ## i like to watch soccer games, and so does my brother 
+## 일반동사를 도치 시킬 경우
+## do did does +주어
+
 ## my granma was a teacher, and so was my mother
 ## i can speak Chinese, and so can my sister
