@@ -9,7 +9,7 @@
 # powdery 파우더리 가루같은 분을 바른
  
 # refer to ~을 언급하다. 
- 
+  
 # possibly 파서블리 아마
 
 # fill up ~로 가득 차다 ~을 채우다
