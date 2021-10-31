@@ -2,7 +2,7 @@
  
 # We have developed KIOST-ESM, a new ESM based on GFDL CM2.5 with lower horizontal resolution but with new physical parameterization schemes applied to the atmosphere, land, and ocean component models. 
 ## but with의 의미 모르겠음
-
+ 
 ## exhibit 익지빗 전시하다 , 전시품
 ## mitigate  미디게이트 완화시키다 
 ## austral 어스트럴 형: 남쪽의
