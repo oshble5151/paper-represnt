@@ -6,7 +6,7 @@
 
 # MJO 위상 오차의 근원을 줄임으로써 S2S 모델에서 개선된 MJO 예측이  효과적으로 달성될 수 있다는 것을 의미한다.
 
-#  associate with ~와 관련시켜 생각하다
+#  associate with ~와 관련시켜 생각하 다
 
 # 나중에 논의한 바와 같이, 그러한 오류는 수분 분포(moisture distribution)의 모델 평균 편향과 부분적으로 관련이 있다.
  
